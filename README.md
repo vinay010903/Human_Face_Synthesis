@@ -19,3 +19,5 @@ This project focuses on generating human-like faces from random noise using a ge
 - Matplotlib: Python library used for data visualization.
 
 ![My Image](res1/image_at_epoch_0146.png)
+
+![My Image](res3/image_at_epoch_0558.png)
