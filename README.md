@@ -17,7 +17,9 @@ This project focuses on generating human-like faces from random noise using a ge
 - Python: Programming language used for development.
 - NumPy: Python library used for numerical computations.
 - Matplotlib: Python library used for data visualization.
-
+  
+The below 3 images show the progressive training of the model.
 ![My Image](res1/image_at_epoch_0146.png)
-
 ![My Image](res3/image_at_epoch_0558.png)
+![My Image](res4/image_at_epoch_0580.png)
+
